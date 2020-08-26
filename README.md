@@ -1,4 +1,4 @@
-![welcome](./source.gif)
+![welcome](https://github.com/onurtacc/onurtacc/blob/master/source.gif)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
